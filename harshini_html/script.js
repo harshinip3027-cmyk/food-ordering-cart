@@ -11,7 +11,7 @@ const MENU = [
   { id: 9, name: "Fresh Lime Soda",  price: 40,  category: "Drinks",   emoji: "🍋", image: "https://images.unsplash.com/photo-1497534446932-c925b458314e?auto=format&fit=crop&w=640&q=80", veg: true  },
   { id: 10, name: "Chocolate Brownie", price: 75, category: "Desserts", emoji: "🍫", image: "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=640&q=80", veg: true },
   { id: 11, name: "Ice Cream Cup",   price: 45, category: "Desserts", emoji: "🍨", image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=640&q=80", veg: true  },
-  { id: 12, name: "Gulab Jamun (2)", price: 40, category: "Desserts", emoji: "🍮", image: "https://images.unsplash.com/photo-1601303516534-674ddef7dcd3?auto=format&fit=crop&w=640&q=80", veg: true  },
+  { id: 12, name: "Gulab Jamun (2)", price: 40, category: "Desserts", emoji: "🍮", image: "https://www.cadburydessertscorner.com/hubfs/dc-website-2022/articles/soft-gulab-jamun-recipe-for-raksha-bandhan-from-dough-to-syrup-all-you-need-to-know/soft-gulab-jamun-recipe-for-raksha-bandhan-from-dough-to-syrup-all-you-need-to-know.webp", veg: true  },
   { id: 13, name: "Paneer Tikka Roll", price: 90, category: "Snacks", emoji: "🌯", image: "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=640&q=80", veg: true },
   { id: 14, name: "Margherita Pizza", price: 120, category: "Meals", emoji: "🍕", image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=640&q=80", veg: true },
   { id: 15, name: "Mango Lassi", price: 55, category: "Drinks", emoji: "🥭", image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=640&q=80", veg: true },
